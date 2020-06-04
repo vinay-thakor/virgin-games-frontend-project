@@ -1,0 +1,74 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 18092375500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should verify login button is displayed",
+        "description": "",
+        "id": "login-page--functionality;user-should-verify-login-button-is-displayed",
+        "after": [
+          {
+            "result": {
+              "duration": 889251300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 124465600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on home page",
+            "match": {
+              "location": "LoginPageSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 236239600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see \"Login\" displayed in one of the button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login",
+                  "offset": 14
+                }
+              ],
+              "location": "LoginPageSteps.iShouldSeeDisplayedInOneOfTheButton(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login page  functionality",
+    "description": "\r\nAs a user\r\nI want to visit virgin Games website",
+    "id": "login-page--functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/virgingames/resources/featurefile/home.feature"
+  }
+]

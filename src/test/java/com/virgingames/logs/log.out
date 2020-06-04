@@ -1,0 +1,130 @@
+2020-05-30 23:05:870 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-05-30 23:05:625 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-05-31 00:05:538 INFO       BrowserSelector :24 - Launching Firefox Browser
+2020-05-31 00:05:752 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 00:05:700 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 00:05:709 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 09:05:156 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 09:05:251 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 10:05:158 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 10:05:377 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 10:05:701 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 10:05:19 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 10:05:463 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-05-31 10:05:113 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 10:05:260 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 11:05:979 INFO       BrowserSelector :24 - Launching Firefox Browser
+2020-05-31 22:05:120 INFO       BrowserSelector :24 - Launching Firefox Browser
+2020-05-31 22:05:973 INFO       BrowserSelector :24 - Launching Firefox Browser
+2020-05-31 23:05:277 INFO       BrowserSelector :24 - Launching Firefox Browser
+2020-05-31 23:05:188 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2020-05-31 23:05:269 INFO       LoginPage :53 - Getting error message :Proxy element for: DefaultElementLocator 'By.className: form-login-join'
+2020-05-31 23:05:321 INFO       BrowserSelector :24 - Launching Firefox Browser
+2020-05-31 23:05:853 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2020-05-31 23:05:935 INFO       LoginPage :53 - Getting error message :Proxy element for: DefaultElementLocator 'By.className: form-login-join'
+2020-05-31 23:05:507 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 23:05:88 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 23:05:866 INFO       BrowserSelector :28 - Launching IE Browser
+2020-05-31 23:05:60 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-05-31 23:05:776 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-05-31 23:05:614 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-05-31 23:05:490 INFO       BrowserSelector :19 - Launching Chrome Browser
+2020-05-31 23:05:195 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-05-31 23:05:629 INFO       BrowserSelector :27 - Launching IE Browser
+2020-05-31 23:05:342 INFO       BrowserSelector :27 - Launching IE Browser
+2020-05-31 23:05:821 INFO       BrowserSelector :27 - Launching IE Browser
+2020-05-31 23:05:382 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-05-31 23:05:535 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-05-31 23:05:49 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 23:05:148 INFO       LoginPage :53 - Getting error message :Proxy element for: DefaultElementLocator 'By.className: form-login-join'
+2020-06-01 00:06:581 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 00:06:918 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 00:06:996 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Forgotten Details?')]'
+2020-06-01 00:06:37 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 00:06:457 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 00:06:542 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Forgotten Details?')]'
+2020-06-01 08:06:628 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 08:06:133 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 08:06:357 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Forgotten Details?')]'
+2020-06-01 09:06:301 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 09:06:314 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 09:06:401 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Forgotten Details?')]'
+2020-06-01 09:06:790 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 09:06:399 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 09:06:440 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Login')]'
+2020-06-01 09:06:279 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 09:06:494 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 09:06:546 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Forgotten Details?')]'
+2020-06-01 10:06:208 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 10:06:47 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 10:06:97 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Forgotten Details?')]'
+2020-06-01 10:06:832 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 10:06:178 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-01 10:06:253 INFO       LoginPage :28 - Getting error message :Proxy element for: DefaultElementLocator 'By.cssSelector: body.fullscreen-active:nth-child(2) div.root.login.logged-out.lobby-menu-active div.page-container div.react-wrapper div.page div.scrollable div.scrollable-section div:nth-child(1) form.form-login.invalid ul.form-login-links:nth-child(5) li.form-login-forgottendetails > a:nth-child(1)'
+2020-06-01 10:06:548 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 11:06:468 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 11:06:240 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 11:06:624 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 12:06:563 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 12:06:480 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 12:06:863 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 12:06:192 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 12:06:995 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 12:06:723 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 12:06:135 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 12:06:900 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 12:06:71 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 12:06:175 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 12:06:140 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 13:06:833 INFO       HomePage :23 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Join Now')]'
+2020-06-01 13:06:871 INFO       HomePage :27 - Getting error message :[[FirefoxDriver: firefox on WINDOWS (d3320e8c-9901-4056-85fa-41b18fa9c4ee)] -> id: welcome_bonus_button]
+2020-06-01 13:06:989 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 13:06:770 INFO       HomePage :30 - Getting error message :Proxy element for: DefaultElementLocator 'By.id: welcome_bonus_button'
+2020-06-01 13:06:319 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 13:06:764 INFO       HomePage :26 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Join Now')]'
+2020-06-01 13:06:801 INFO       HomePage :30 - Getting error message :[[FirefoxDriver: firefox on WINDOWS (b889b043-88f4-4068-b248-2f7cb063aeb0)] -> id: welcome_bonus_button]
+2020-06-01 13:06:695 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 13:06:772 INFO       HomePage :26 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Join Now')]'
+2020-06-01 13:06:800 INFO       HomePage :30 - Getting error message :[[FirefoxDriver: firefox on WINDOWS (c4cbcd8d-0c04-4bc7-a0ee-ebecf7ab0bbb)] -> id: welcome_bonus_button]
+2020-06-01 13:06:142 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 13:06:277 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 13:06:292 INFO       HomePage :26 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Join Now')]'
+2020-06-01 13:06:345 INFO       HomePage :30 - Getting error message :[[FirefoxDriver: firefox on WINDOWS (fc4058e8-4696-4a45-b592-6d2a93df5fc2)] -> id: welcome_bonus_button]
+2020-06-01 13:06:536 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 14:06:988 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 14:06:750 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-01 14:06:838 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 14:06:644 INFO       HomePage :26 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Join Now')]'
+2020-06-01 14:06:691 INFO       HomePage :30 - Getting error message :[[FirefoxDriver: firefox on WINDOWS (efd0b3c5-4a1f-4702-9ff9-87cabf80f2da)] -> id: welcome_bonus_button]
+2020-06-01 14:06:185 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 14:06:15 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 14:06:355 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 14:06:859 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 14:06:238 INFO       HomePage :44 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2020-06-01 14:06:714 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 14:06:547 INFO       HomePage :44 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2020-06-01 14:06:623 INFO       HomePage :35 - Getting error message :Proxy element for: DefaultElementLocator 'By.id: welcome_bonus_button'
+2020-06-01 15:06:405 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 15:06:284 INFO       HomePage :44 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2020-06-01 15:06:361 INFO       HomePage :35 - Getting error message :Proxy element for: DefaultElementLocator 'By.linkText: Join Now'
+2020-06-01 15:06:399 INFO       BrowserSelector :23 - Launching Firefox Browser
+2020-06-01 15:06:146 INFO       HomePage :44 - Clicking on login button : Proxy element for: DefaultElementLocator 'By.linkText: Login'
+2020-06-01 15:06:198 INFO       HomePage :35 - Getting error message :Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Forgotten Details?')]'
+2020-06-02 23:06:909 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-06-02 23:06:20 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-06-02 23:06:478 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-02 23:06:248 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-03 09:06:33 INFO       BrowserSelector :27 - Launching IE Browser
+2020-06-03 09:06:375 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-06-03 09:06:262 INFO       HomePage :26 - Login Button is Displayed [[ChromeDriver: chrome on WINDOWS (bf8f3525d534de878427c8d6433569bf)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 09:06:925 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-06-03 09:06:831 INFO       HomePage :20 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (59e3888e0b9c439532412d4f63a6981f)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-03 09:06:954 INFO       HomePage :26 - Login Button is Displayed [[ChromeDriver: chrome on WINDOWS (59e3888e0b9c439532412d4f63a6981f)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-04 20:06:980 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-06-04 20:06:683 INFO       HomePage :20 - Clicking on login buttonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-04 21:06:488 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-06-04 21:06:986 INFO       HomePage :20 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (513b29a3812a2591d919a06736c7f7fd)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-04 21:06:174 INFO       HomePage :26 - Login Button is Displayed [[ChromeDriver: chrome on WINDOWS (513b29a3812a2591d919a06736c7f7fd)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-04 21:06:545 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-06-04 21:06:918 INFO       HomePage :20 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (08a3af7e2307f918ab1ab4398f48bf71)] -> xpath: //a[contains(text(),'Login')]]
+2020-06-04 21:06:987 INFO       HomePage :26 - Login Button is Displayed [[ChromeDriver: chrome on WINDOWS (08a3af7e2307f918ab1ab4398f48bf71)] -> xpath: //a[contains(text(),'Login')]]
